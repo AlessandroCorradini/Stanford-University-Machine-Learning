@@ -1,3 +1,4 @@
+Each and every answer are available.
 # Stanford Machine Learning
 This repository contains all programming assignments solutions for the [Stanford Machine-Learning](https://www.coursera.org/learn/machine-learning) course on [Coursera](https://www.coursera.org) taught by the legendary prof. Andrew Ng.
 
